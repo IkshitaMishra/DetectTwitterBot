@@ -18,7 +18,7 @@ Refer : https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitt
 
   -Streaming API
   
-# Understanding Twython
+# Understanding Twython - Python Library
 
 Refer: https://twython.readthedocs.io/en/latest/api.html
 
